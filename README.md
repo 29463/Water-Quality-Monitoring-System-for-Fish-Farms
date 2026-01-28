@@ -1104,5 +1104,9 @@ Main Menu
     ├── Alert History
     └── Acknowledge
 ```
+<img width="1167" height="649" alt="image" src="https://github.com/user-attachments/assets/c67f0a8e-870d-4a7a-a6ab-066010f1dd3a" />
 
-### 9.2 Web Dashboard Interface
+<img width="369" height="645" alt="image" src="https://github.com/user-attachments/assets/6daa8c19-c6d8-41ef-9f93-8acd17f19feb" />
+
+<img width="395" height="605" alt="image" src="https://github.com/user-attachments/assets/da08945f-75b4-4912-acb1-dcf3cdc5d27d" />
+
